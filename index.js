@@ -22,3 +22,7 @@ setTimeout(() => {
     console.log(test());
 }, 5000);
 
+const feature3 = () =>{
+    console.log('Hola');
+};
+

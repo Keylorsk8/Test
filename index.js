@@ -26,3 +26,7 @@ const feature3 = () =>{
     console.log('Hola');
 };
 
+const bugFix = () =>{
+    console.log('Hola');
+};
+
